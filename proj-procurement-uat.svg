@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#171717"/>
+  <rect x="54" y="52" width="38" height="38" rx="8" fill="#9BB8F0"/>
+  <path d="M66 64h14M66 70h14M66 76h9" stroke="#171717" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="108" y="78" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2">NEXORA · QUALITY ASSURANCE</text>
+  <text x="54" y="154" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="42" font-weight="700">PROCUREMENT WORKFLOW UAT</text>
+  <text x="56" y="188" fill="#AAA59C" font-family="Arial, sans-serif" font-size="18">Functional testing · SQL validation · acceptance</text>
+
+  <rect x="54" y="230" width="1092" height="598" rx="20" fill="#202020" stroke="#414141" stroke-width="2"/>
+  <text x="88" y="282" fill="#AAA59C" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">TEST EXECUTION SUMMARY</text>
+
+  <rect x="88" y="316" width="322" height="188" rx="14" fill="#292929" stroke="#494949" stroke-width="2"/>
+  <text x="116" y="354" fill="#AAA59C" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1">TEST CASES EXECUTED</text>
+  <text x="116" y="444" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="76" font-weight="700">15</text>
+  <text x="187" y="442" fill="#AAA59C" font-family="Arial, sans-serif" font-size="19">of 15 passed</text>
+  <rect x="116" y="465" width="266" height="10" rx="5" fill="#383838"/>
+  <rect x="116" y="465" width="266" height="10" rx="5" fill="#83C995"/>
+
+  <rect x="430" y="316" width="322" height="188" rx="14" fill="#292929" stroke="#494949" stroke-width="2"/>
+  <text x="458" y="354" fill="#AAA59C" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1">DEFECTS FOUND</text>
+  <text x="458" y="444" fill="#83C995" font-family="Arial, sans-serif" font-size="76" font-weight="700">0</text>
+  <rect x="557" y="396" width="144" height="42" rx="21" fill="#233126"/>
+  <circle cx="580" cy="417" r="6" fill="#83C995"/>
+  <text x="595" y="423" fill="#83C995" font-family="Arial, sans-serif" font-size="15" font-weight="700">ALL CLEAR</text>
+  <text x="458" y="476" fill="#AAA59C" font-family="Arial, sans-serif" font-size="15">Functional validation complete</text>
+
+  <rect x="772" y="316" width="338" height="188" rx="14" fill="#292929" stroke="#494949" stroke-width="2"/>
+  <text x="800" y="354" fill="#AAA59C" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1">UAT ACCEPTANCE</text>
+  <circle cx="846" cy="416" r="31" fill="#233126"/>
+  <path d="m832 416 10 10 19-21" stroke="#83C995" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="896" y="411" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="21" font-weight="700">Accepted</text>
+  <text x="896" y="439" fill="#AAA59C" font-family="Arial, sans-serif" font-size="15">Decision documented</text>
+
+  <rect x="88" y="530" width="656" height="258" rx="14" fill="#292929" stroke="#494949" stroke-width="2"/>
+  <text x="116" y="570" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="19" font-weight="700">WORKFLOW TEST COVERAGE</text>
+  <text x="116" y="612" fill="#AAA59C" font-family="Arial, sans-serif" font-size="14" font-weight="700">WORKFLOW</text>
+  <text x="570" y="612" fill="#AAA59C" font-family="Arial, sans-serif" font-size="14" font-weight="700">RESULT</text>
+  <path d="M116 628h600" stroke="#494949" stroke-width="2"/>
+  <text x="116" y="660" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="16">Supplier &amp; product setup</text>
+  <text x="570" y="660" fill="#83C995" font-family="Arial, sans-serif" font-size="15">✓  Passed</text>
+  <path d="M116 677h600" stroke="#3B3B3B" stroke-width="1"/>
+  <text x="116" y="709" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="16">Purchase requisition</text>
+  <text x="570" y="709" fill="#83C995" font-family="Arial, sans-serif" font-size="15">✓  Passed</text>
+  <path d="M116 726h600" stroke="#3B3B3B" stroke-width="1"/>
+  <text x="116" y="758" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="16">Purchase order &amp; approvals</text>
+  <text x="570" y="758" fill="#83C995" font-family="Arial, sans-serif" font-size="15">✓  Passed</text>
+
+  <rect x="772" y="530" width="338" height="258" rx="14" fill="#292929" stroke="#494949" stroke-width="2"/>
+  <text x="800" y="570" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="19" font-weight="700">DELIVERABLES</text>
+  <rect x="800" y="598" width="282" height="48" rx="8" fill="#353535"/>
+  <rect x="816" y="610" width="19" height="24" rx="3" stroke="#9BB8F0" stroke-width="2"/>
+  <path d="M821 617h9M821 623h9M821 629h6" stroke="#9BB8F0" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="849" y="628" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="15">Functional requirements</text>
+  <rect x="800" y="658" width="282" height="48" rx="8" fill="#353535"/>
+  <rect x="816" y="670" width="19" height="24" rx="3" stroke="#9BB8F0" stroke-width="2"/>
+  <path d="M821 677h9M821 683h9M821 689h6" stroke="#9BB8F0" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="849" y="688" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="15">Test results &amp; defect log</text>
+  <rect x="800" y="718" width="282" height="48" rx="8" fill="#353535"/>
+  <path d="M819 741h13m-4-4 4 4-4 4" stroke="#E9B35B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="849" y="748" fill="#F7F1E6" font-family="Arial, sans-serif" font-size="15">UAT sign-off</text>
+</svg>
